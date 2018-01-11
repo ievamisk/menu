@@ -1,0 +1,15 @@
+01:1:Aðtrûs sparneliai:2:Kepti aðtrûs viðtienos sparneliai su padaþu:astrussparneliai.jpg
+02:1:Kepta duona:1,70:Kepta duona su èesnaku ir sûriu:keptaduona.jpg
+03:1:Salotos su tunu:2,40:Salotos su darþovëmis ir tunu:tunosalotos.jpg
+04:2:Salotos su feta sûriu:2,30:Salotos su darþovëmis ir feta sûriu:fetasalotos.jpg
+05:2:Cezario salotos:2,5:Salotos su viðtiena, skrebuèiais ir padaþu:cezariosalotos.jpg
+06:3:Trinta grybø sriuba:1,16:Trintø pievagrybiø sriuba su skrebuèiais ir sûriu:grybusriuba.jpg
+07:3:Pomidorø sriuba:1,50:Trinta pomidorø sriuba:pomidorusriuba.jpg
+08:3:Èili sriuba:2:Aðtri èili sriuba su jautiena:cilisriuba.jpg
+09:4:Viðtienos kepsnys:3,2:Viðtienos kepsnys su darþovëmis ir ryþiais:vistienoskepsnys.jpg
+10:4:Jautienos ieðmelis:3,8:Jautienos ieðmelis su darþovëmis ir ryþiais:jautienosiesmelis.jpg
+11:4:Pica:2,5:Pica su pasirinktais priedais:pica.jpg
+12:5:Ðokoladinis pyragas:1,7:Ðokoladinis pyragas su maskarponës kremu:sokoladinispyragas.jpg
+13:5:Ledai:1,3:Ledai su pasirinktu uþpilu:ledai.jpg
+14:6:Kava:1,3:Juoda kava arba su pienu:kava.jpg
+16:6:Arbata:1:Pasirinkta arbata:arbata.jpg
